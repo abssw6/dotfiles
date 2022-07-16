@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = clear
+	name = Abdul Elmi abs.sw6@gmail.com
